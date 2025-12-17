@@ -1,9 +1,7 @@
 ## 🚀 Live Application
 
 🔗 **Streamlit App:**  
-<a href="https://your-app.streamlit.app" target="_blank" rel="noopener noreferrer">
-🚀 Open Live Streamlit App
-</a>
+https://customer-churn-ml-n9wqr2evvau4p3faxfaf8b.streamlit.app/
 
 # Customer Churn Prediction using Machine Learning
 
