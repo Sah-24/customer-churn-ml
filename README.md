@@ -23,7 +23,7 @@ The dataset used is the **Telco Customer Churn Dataset**, which includes:
 - **Contract and billing features**: contract type, paperless billing, payment method, tenure, monthly charges, total charges  
 - **Target variable**: `Churn` (Yes/No)
 
-The dataset contains **7043 customer records** and **20+ features**.
+The dataset contains **7042 customer records** and **20+ features**.
 
 ---
 
@@ -31,9 +31,7 @@ The dataset contains **7043 customer records** and **20+ features**.
 
 The machine learning pipeline includes the following steps:
 
-1. **Data Cleaning**
-   - Convert `TotalCharges` to numeric  
-   - Remove missing or inconsistent entries  
+1. **Data Cleaning** 
    - Drop unnecessary columns like `customerID`
 
 2. **Feature Engineering**
