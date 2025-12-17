@@ -1,3 +1,8 @@
+## 🚀 Live Application
+
+🔗 **Streamlit App:**  
+https://customer-churn-ml-n9wqr2evvau4p3faxfaf8b.streamlit.app/
+
 # Customer Churn Prediction using Machine Learning
 
 This project focuses on predicting customer churn for a subscription-based telecom company.  
